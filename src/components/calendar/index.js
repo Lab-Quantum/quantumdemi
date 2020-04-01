@@ -3,7 +3,6 @@ import { ResponsiveCalendar } from '@nivo/calendar'
 import Data from './data.json'
 
 const Calendar = () => {
-    console.log(Data)
     return(
         <ResponsiveCalendar
             data={Data}

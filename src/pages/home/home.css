@@ -4,10 +4,12 @@
 
     display: var(--flex);
     justify-content: var(--center);
+    flex-wrap: var(--wrap);
 }
 
 .containerHome .calendarContainer{
-    margin-top: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 
     display: var(--flex);
     justify-content: var(--center);

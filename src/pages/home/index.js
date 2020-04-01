@@ -1,5 +1,6 @@
 import React from 'react'
 import Calendar from '../../components/calendar'
+import Steam from '../../components/steam'
 import './home.css'
 
 const Home = () => {
@@ -7,6 +8,9 @@ const Home = () => {
         <div className="containerHome">
             <div className="calendarContainer">
                 <Calendar />
+            </div>
+            <div className="calendarContainer">
+                <Steam />
             </div>
         </div>
     )
