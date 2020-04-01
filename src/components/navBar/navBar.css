@@ -1,0 +1,50 @@
+.navBar{
+    width: 100%;
+    height: 60px;
+
+    background-color: var(--purple);
+
+    display: var(--flex);
+    justify-content: var(--center);
+    align-items: var(--center);
+
+    box-shadow: 0 20px 30px -16px rgba(9,9,16,.15);
+}
+
+.navBar .container{
+    width: 94%;
+    height: 80%;
+
+    display: var(--flex);
+    justify-content: var(--space-between);
+    align-items: var(--center);
+}
+
+/*LOGO CONTAINER */
+.navBar .container .logoContainer{
+    width: 25%;
+    height: 100%;
+
+    display: var(--flex);
+    align-items: var(--center);
+}
+
+.navBar .container .logoContainer .logo{
+    width: 40%;
+}
+
+/*MENU CONTAINER */
+.navBar .container .menuContainer{
+    width: 50%;
+    height: 100%;
+}
+
+/*USER CONTAINER */
+.navBar .container .userContainer{
+    width: 25%;
+    height: 100%;
+
+    display: var(--flex);
+    align-items: var(--center);
+    justify-content: var(--flex-end);
+}
