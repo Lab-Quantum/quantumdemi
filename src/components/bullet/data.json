@@ -1,0 +1,62 @@
+[{
+        "id": "Dias",
+        "ranges": [
+            31,
+            46,
+            16,
+            0,
+            100
+        ],
+        "measures": [
+            35
+        ],
+        "markers": [
+            
+        ]
+    },
+    {
+        "id": "Casos",
+        "ranges": [
+            1000,
+            3000,
+            5000,
+            7000
+        ],
+        "measures": [
+            6836
+        ],
+        "markers": [
+            
+        ]
+    },
+    {
+        "id": "Mortos",
+        "ranges": [
+            10,
+            100,
+            300,
+            500
+        ],
+        "measures": [
+            240
+        ],
+        "markers": [
+            
+        ]
+    },
+    {
+        "id": "Curados",
+        "ranges": [
+            10,
+            50,
+            100,
+            300
+        ],
+        "measures": [
+            127
+        ],
+        "markers": [
+            
+        ]
+    }
+]

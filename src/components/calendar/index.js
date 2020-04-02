@@ -6,6 +6,7 @@ const Calendar = () => {
     return(
         <ResponsiveCalendar
             data={Data}
+            keys={['Confirmados']}
             from="2020-01-02"
             to="2020-3-31"
             emptyColor="#eeeeee"

@@ -1,212 +1,218 @@
 [
   {
     "day": "2020-02-26",
-    "Confirmados": 1,
+    "Casos": 1,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-02-27",
-    "Confirmados": 1,
+    "Casos": 1,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-02-28",
-    "Confirmados": 1,
+    "Casos": 1,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-02-29",
-    "Confirmados": 2,
+    "Casos": 2,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-1",
-    "Confirmados": 2,
+    "Casos": 2,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-2",
-    "Confirmados": 2,
+    "Casos": 2,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-3",
-    "Confirmados": 2,
+    "Casos": 2,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-4",
-    "Confirmados": 4,
+    "Casos": 4,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-5",
-    "Confirmados": 4,
+    "Casos": 4,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-6",
-    "Confirmados": 13,
+    "Casos": 13,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-7",
-    "Confirmados": 13,
+    "Casos": 13,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-8",
-    "Confirmados": 20,
+    "Casos": 20,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-9",
-    "Confirmados": 25,
+    "Casos": 25,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-10",
-    "Confirmados": 31,
+    "Casos": 31,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-11",
-    "Confirmados": 38,
+    "Casos": 38,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-12",
-    "Confirmados": 52,
+    "Casos": 52,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-13",
-    "Confirmados": 151,
+    "Casos": 151,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-14",
-    "Confirmados": 151,
+    "Casos": 151,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-15",
-    "Confirmados": 162,
+    "Casos": 162,
     "deaths": 0,
     "recovered": 0
   },
   {
     "day": "2020-03-16",
-    "Confirmados": 200,
+    "Casos": 200,
     "deaths": 0,
     "recovered": 1
   },
   {
     "day": "2020-03-17",
-    "Confirmados": 321,
+    "Casos": 321,
     "deaths": 1,
     "recovered": 2
   },
   {
     "day": "2020-03-18",
-    "Confirmados": 372,
+    "Casos": 372,
     "deaths": 3,
     "recovered": 2
   },
   {
     "day": "2020-03-19",
-    "Confirmados": 621,
+    "Casos": 621,
     "deaths": 6,
     "recovered": 2
   },
   {
     "day": "2020-03-20",
-    "Confirmados": 793,
+    "Casos": 793,
     "deaths": 11,
     "recovered": 2
   },
   {
     "day": "2020-03-21",
-    "Confirmados": 1021,
+    "Casos": 1021,
     "deaths": 15,
     "recovered": 2
   },
   {
     "day": "2020-03-22",
-    "Confirmados": 1546,
+    "Casos": 1546,
     "deaths": 25,
     "recovered": 2
   },
   {
     "day": "2020-03-23",
-    "Confirmados": 1924,
+    "Casos": 1924,
     "deaths": 34,
     "recovered": 2
   },
   {
     "day": "2020-03-24",
-    "Confirmados": 2247,
+    "Casos": 2247,
     "deaths": 46,
     "recovered": 2
   },
   {
     "day": "2020-03-25",
-    "Confirmados": 2554,
+    "Casos": 2554,
     "deaths": 59,
     "recovered": 2
   },
   {
     "day": "2020-03-26",
-    "Confirmados": 2985,
+    "Casos": 2985,
     "deaths": 77,
     "recovered": 6
   },
   {
     "day": "2020-03-27",
-    "Confirmados": 3417,
+    "Casos": 3417,
     "deaths": 92,
     "recovered": 6
   },
   {
     "day": "2020-03-28",
-    "Confirmados": 3904,
+    "Casos": 3904,
     "deaths": 111,
     "recovered": 6
   },
   {
     "day": "2020-03-29",
-    "Confirmados": 4256,
+    "Casos": 4256,
     "deaths": 136,
     "recovered": 6
   },
   {
     "day": "2020-03-30",
-    "Confirmados": 4579,
+    "Casos": 4579,
     "deaths": 159,
     "recovered": 120
   },
   {
     "day": "2020-03-31",
-    "Confirmados": 5717,
+    "Casos": 5717,
     "deaths": 201,
+    "recovered": 127
+  },
+  {
+    "day": "2020-04-1",
+    "Casos": 6836,
+    "deaths": 240,
     "recovered": 127
   }
 ]

@@ -7,9 +7,14 @@
     flex-wrap: var(--wrap);
 }
 
-.containerHome .calendarContainer{
-    margin-top: 25px;
-    margin-bottom: 25px;
+::-webkit-scrollbar {
+    width: 0px;
+    background-color: transparent;
+}
+
+.calendarContainer{
+    margin-top: 30px;
+    margin-bottom: 30px;
 
     display: var(--flex);
     justify-content: var(--center);
@@ -17,6 +22,34 @@
 
     width: 95%;
     height: 300px;
+
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 20px 30px -16px rgba(9,9,16,.08);
+}
+
+.others{
+    width: 95%;
+    height: 300px;
+
+    margin-bottom: 30px;
+
+    display: var(--flex);
+    justify-content: var(--space-between);
+}
+
+.steamContainer{
+    width: 50%;
+    height: 100%;
+
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 20px 30px -16px rgba(9,9,16,.08);
+}
+
+.bulletContainer{
+    width: 48%;
+    height: 100%;
 
     background-color: #fff;
     border-radius: 5px;

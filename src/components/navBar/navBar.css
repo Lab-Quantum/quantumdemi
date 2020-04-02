@@ -37,6 +37,13 @@
 .navBar .container .menuContainer{
     width: 50%;
     height: 100%;
+
+    display: var(--flex);
+    justify-content: var(--center);
+    align-items: var(--center);
+
+    color: #fff;
+    font-size: 18px;
 }
 
 /*USER CONTAINER */

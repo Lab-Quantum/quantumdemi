@@ -7,32 +7,12 @@ const Steam = () => {
         <ResponsiveStream
             curve={'natural'}
             data={Data}
-            keys={['Confirmados']}
-            margin={{ top: 50, right: 110, bottom: 50, left: 60 }}
+            keys={['Casos']}
+            margin={{ top: 30, right: 30, bottom: 30, left: 30 }}
             axisTop={null}
             axisRight={null}
             colors={[ '#7F70C1' ]}
             enableDots={true}
-            axisBottom={{
-                orient: 'bottom',
-                tickSize: 5,
-                tickPadding: 5,
-                tickRotation: 0,
-                legend: '',
-                legendOffset: 36
-            }}
-            legends={[
-                {
-                    anchor: 'right',
-                    direction: 'column',
-                    translateX: 100,
-                    itemWidth: 80,
-                    itemHeight: 20,
-                    itemTextColor: '#999999',
-                    symbolSize: 12,
-                    symbolShape: 'circle',
-                }
-            ]}
         />
     )
 }
