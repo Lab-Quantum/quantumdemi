@@ -9,6 +9,10 @@
     align-items: var(--center);
 
     box-shadow: 0 20px 30px -16px rgba(9,9,16,.15);
+
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
 }
 
 .navBar .container{
