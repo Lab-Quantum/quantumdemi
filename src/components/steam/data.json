@@ -1,218 +1,182 @@
 [
-  {
-    "day": "2020-02-26",
-    "Casos": 1,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-27",
-    "Casos": 1,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-28",
-    "Casos": 1,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-29",
-    "Casos": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-1",
-    "Casos": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-2",
-    "Casos": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-3",
-    "Casos": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-4",
-    "Casos": 4,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-5",
-    "Casos": 4,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-6",
-    "Casos": 13,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-7",
-    "Casos": 13,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-8",
-    "Casos": 20,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-9",
-    "Casos": 25,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-10",
-    "Casos": 31,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-11",
-    "Casos": 38,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-12",
-    "Casos": 52,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-13",
-    "Casos": 151,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-14",
-    "Casos": 151,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-15",
-    "Casos": 162,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-16",
-    "Casos": 200,
-    "deaths": 0,
-    "recovered": 1
-  },
-  {
-    "day": "2020-03-17",
-    "Casos": 321,
-    "deaths": 1,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-18",
-    "Casos": 372,
-    "deaths": 3,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-19",
-    "Casos": 621,
-    "deaths": 6,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-20",
-    "Casos": 793,
-    "deaths": 11,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-21",
-    "Casos": 1021,
-    "deaths": 15,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-22",
-    "Casos": 1546,
-    "deaths": 25,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-23",
-    "Casos": 1924,
-    "deaths": 34,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-24",
-    "Casos": 2247,
-    "deaths": 46,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-25",
-    "Casos": 2554,
-    "deaths": 59,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-26",
-    "Casos": 2985,
-    "deaths": 77,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-27",
-    "Casos": 3417,
-    "deaths": 92,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-28",
-    "Casos": 3904,
-    "deaths": 111,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-29",
-    "Casos": 4256,
-    "deaths": 136,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-30",
-    "Casos": 4579,
-    "deaths": 159,
-    "recovered": 120
-  },
-  {
-    "day": "2020-03-31",
-    "Casos": 5717,
-    "deaths": 201,
-    "recovered": 127
-  },
-  {
-    "day": "2020-04-1",
-    "Casos": 6836,
-    "deaths": 240,
-    "recovered": 127
-  }
+{
+  "day": "2020-03-4",
+  "Casos": 4,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-5",
+  "Casos": 4,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-6",
+  "Casos": 13,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-7",
+  "Casos": 13,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-8",
+  "Casos": 20,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-9",
+  "Casos": 25,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-10",
+  "Casos": 31,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-11",
+  "Casos": 38,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-12",
+  "Casos": 52,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-13",
+  "Casos": 151,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-14",
+  "Casos": 151,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-15",
+  "Casos": 162,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-16",
+  "Casos": 200,
+  "deaths": 0,
+  "recovered": 1
+},
+{
+  "day": "2020-03-17",
+  "Casos": 321,
+  "deaths": 1,
+  "recovered": 2
+},
+{
+  "day": "2020-03-18",
+  "Casos": 372,
+  "deaths": 3,
+  "recovered": 2
+},
+{
+  "day": "2020-03-19",
+  "Casos": 621,
+  "deaths": 6,
+  "recovered": 2
+},
+{
+  "day": "2020-03-20",
+  "Casos": 793,
+  "deaths": 11,
+  "recovered": 2
+},
+{
+  "day": "2020-03-21",
+  "Casos": 1021,
+  "deaths": 15,
+  "recovered": 2
+},
+{
+  "day": "2020-03-22",
+  "Casos": 1546,
+  "deaths": 25,
+  "recovered": 2
+},
+{
+  "day": "2020-03-23",
+  "Casos": 1924,
+  "deaths": 34,
+  "recovered": 2
+},
+{
+  "day": "2020-03-24",
+  "Casos": 2247,
+  "deaths": 46,
+  "recovered": 2
+},
+{
+  "day": "2020-03-25",
+  "Casos": 2554,
+  "deaths": 59,
+  "recovered": 2
+},
+{
+  "day": "2020-03-26",
+  "Casos": 2985,
+  "deaths": 77,
+  "recovered": 6
+},
+{
+  "day": "2020-03-27",
+  "Casos": 3417,
+  "deaths": 92,
+  "recovered": 6
+},
+{
+  "day": "2020-03-28",
+  "Casos": 3904,
+  "deaths": 111,
+  "recovered": 6
+},
+{
+  "day": "2020-03-29",
+  "Casos": 4256,
+  "deaths": 136,
+  "recovered": 6
+},
+{
+  "day": "2020-03-30",
+  "Casos": 4579,
+  "deaths": 159,
+  "recovered": 120
+},
+{
+  "day": "2020-03-31",
+  "Casos": 5717,
+  "deaths": 201,
+  "recovered": 127
+},
+{
+  "day": "2020-04-1",
+  "Casos": 6836,
+  "deaths": 240,
+  "recovered": 127
+},
+{
+  "day": "2020-04-2",
+  "Casos": 8044,
+  "deaths": 324,
+  "recovered": 127
+}
 ]

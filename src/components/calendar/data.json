@@ -1,428 +1,433 @@
-[
-  {
-    "day": "2020-01-22",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-23",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-24",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-25",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-26",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-27",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-28",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-29",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-30",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-01-31",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-1",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-2",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-3",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-4",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-5",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-6",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-7",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-8",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-9",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-10",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-11",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-12",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-13",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-14",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-15",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-16",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-17",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-18",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-19",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-20",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-21",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-22",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-23",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-24",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-25",
-    "value": 0,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-26",
-    "value": 1,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-27",
-    "value": 1,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-28",
-    "value": 1,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-02-29",
-    "value": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-1",
-    "value": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-2",
-    "value": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-3",
-    "value": 2,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-4",
-    "value": 4,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-5",
-    "value": 4,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-6",
-    "value": 13,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-7",
-    "value": 13,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-8",
-    "value": 20,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-9",
-    "value": 25,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-10",
-    "value": 31,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-11",
-    "value": 38,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-12",
-    "value": 52,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-13",
-    "value": 151,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-14",
-    "value": 151,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-15",
-    "value": 162,
-    "deaths": 0,
-    "recovered": 0
-  },
-  {
-    "day": "2020-03-16",
-    "value": 200,
-    "deaths": 0,
-    "recovered": 1
-  },
-  {
-    "day": "2020-03-17",
-    "value": 321,
-    "deaths": 1,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-18",
-    "value": 372,
-    "deaths": 3,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-19",
-    "value": 621,
-    "deaths": 6,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-20",
-    "value": 793,
-    "deaths": 11,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-21",
-    "value": 1021,
-    "deaths": 15,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-22",
-    "value": 1546,
-    "deaths": 25,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-23",
-    "value": 1924,
-    "deaths": 34,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-24",
-    "value": 2247,
-    "deaths": 46,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-25",
-    "value": 2554,
-    "deaths": 59,
-    "recovered": 2
-  },
-  {
-    "day": "2020-03-26",
-    "value": 2985,
-    "deaths": 77,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-27",
-    "value": 3417,
-    "deaths": 92,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-28",
-    "value": 3904,
-    "deaths": 111,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-29",
-    "value": 4256,
-    "deaths": 136,
-    "recovered": 6
-  },
-  {
-    "day": "2020-03-30",
-    "value": 4579,
-    "deaths": 159,
-    "recovered": 120
-  },
-  {
-    "day": "2020-03-31",
-    "value": 5717,
-    "deaths": 201,
-    "recovered": 127
-  },
-  {
-    "day": "2020-04-1",
-    "value": 6836,
-    "deaths": 240,
-    "recovered": 127
-  }
+[{
+  "day": "2020-01-22",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-23",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-24",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-25",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-26",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-27",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-28",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-29",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-30",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-01-31",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-01",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-02",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-03",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-04",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-05",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-06",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-07",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-08",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-09",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-10",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-11",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-12",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-13",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-14",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-15",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-16",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-17",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-18",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-19",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-20",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-21",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-22",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-23",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-24",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-25",
+  "value": 0,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-26",
+  "value": 1,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-27",
+  "value": 1,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-28",
+  "value": 1,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-02-29",
+  "value": 2,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-01",
+  "value": 2,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-02",
+  "value": 2,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-03",
+  "value": 2,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-04",
+  "value": 4,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-05",
+  "value": 4,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-06",
+  "value": 13,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-07",
+  "value": 13,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-08",
+  "value": 20,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-09",
+  "value": 25,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-10",
+  "value": 31,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-11",
+  "value": 38,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-12",
+  "value": 52,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-13",
+  "value": 151,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-14",
+  "value": 151,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-15",
+  "value": 162,
+  "deaths": 0,
+  "recovered": 0
+},
+{
+  "day": "2020-03-16",
+  "value": 200,
+  "deaths": 0,
+  "recovered": 1
+},
+{
+  "day": "2020-03-17",
+  "value": 321,
+  "deaths": 1,
+  "recovered": 2
+},
+{
+  "day": "2020-03-18",
+  "value": 372,
+  "deaths": 3,
+  "recovered": 2
+},
+{
+  "day": "2020-03-19",
+  "value": 621,
+  "deaths": 6,
+  "recovered": 2
+},
+{
+  "day": "2020-03-20",
+  "value": 793,
+  "deaths": 11,
+  "recovered": 2
+},
+{
+  "day": "2020-03-21",
+  "value": 1021,
+  "deaths": 15,
+  "recovered": 2
+},
+{
+  "day": "2020-03-22",
+  "value": 1546,
+  "deaths": 25,
+  "recovered": 2
+},
+{
+  "day": "2020-03-23",
+  "value": 1924,
+  "deaths": 34,
+  "recovered": 2
+},
+{
+  "day": "2020-03-24",
+  "value": 2247,
+  "deaths": 46,
+  "recovered": 2
+},
+{
+  "day": "2020-03-25",
+  "value": 2554,
+  "deaths": 59,
+  "recovered": 2
+},
+{
+  "day": "2020-03-26",
+  "value": 2985,
+  "deaths": 77,
+  "recovered": 6
+},
+{
+  "day": "2020-03-27",
+  "value": 3417,
+  "deaths": 92,
+  "recovered": 6
+},
+{
+  "day": "2020-03-28",
+  "value": 3904,
+  "deaths": 111,
+  "recovered": 6
+},
+{
+  "day": "2020-03-29",
+  "value": 4256,
+  "deaths": 136,
+  "recovered": 6
+},
+{
+  "day": "2020-03-30",
+  "value": 4579,
+  "deaths": 159,
+  "recovered": 120
+},
+{
+  "day": "2020-03-31",
+  "value": 5717,
+  "deaths": 201,
+  "recovered": 127
+},
+{
+  "day": "2020-04-01",
+  "value": 6836,
+  "deaths": 240,
+  "recovered": 127
+},
+{
+  "day": "2020-04-02",
+  "value": 8044,
+  "deaths": 324,
+  "recovered": 127
+}
 ]

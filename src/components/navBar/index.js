@@ -21,7 +21,7 @@ const NavBar = () => {
         .catch(error => {
             console.log(error)  
         })    
-    });
+    }, []);
     
     return(
         <div className="navBar">

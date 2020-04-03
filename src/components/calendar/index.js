@@ -6,11 +6,10 @@ const Calendar = () => {
     return(
         <ResponsiveCalendar
             data={Data}
-            keys={['Confirmados']}
             from="2020-01-02"
-            to="2020-3-31"
+            to="2020-04-12"
             emptyColor="#eeeeee"
-            colors={[ '#F6ACD2', '#CC90D9', '#A98BD4', '#7F70C1' ]}
+            colors={[ '#F6ACD2', '#CC90D9', '#A98BD4', '#7F70C1', ]}
             margin={{ top: 40, right: 40, bottom: 40, left: 40 }}
             yearSpacing={40}
             monthBorderColor="#ffffff"
