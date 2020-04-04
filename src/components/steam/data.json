@@ -178,5 +178,11 @@
   "Casos": 8044,
   "deaths": 324,
   "recovered": 127
+},
+{
+  "day": "2020-04-3",
+  "Casos": 9056,
+  "deaths": 359,
+  "recovered": 127
 }
 ]

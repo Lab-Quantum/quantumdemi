@@ -429,5 +429,11 @@
   "value": 8044,
   "deaths": 324,
   "recovered": 127
+},
+{
+  "day": "2020-04-03",
+  "value": 9056,
+  "deaths": 359,
+  "recovered": 127
 }
 ]

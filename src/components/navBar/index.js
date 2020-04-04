@@ -60,7 +60,7 @@ const NavBar = () => {
           <div className="logoContainer">
             <img className="logo" src={Logo} alt="Logo" />
           </div>
-          <div className="menuContainer">Casos confirmados: 8044 </div>
+          <div className="menuContainer">Casos confirmados: 9056 </div>
           <div className="userContainer">
             <StyledBadge
               overlap="circle"
