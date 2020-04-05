@@ -5,8 +5,9 @@ import Badge from '@material-ui/core/Badge';
 import Logo from '../../assets/logo.png';
 import axios from 'axios';
 import { withStyles } from '@material-ui/core/styles';
-import MapIcon from '@material-ui/icons/Map';
+import MapRoundedIcon from '@material-ui/icons/MapRounded';
 import IconButton from '@material-ui/core/IconButton';
+import HomeRoundedIcon from '@material-ui/icons/HomeRounded';
 
 import { Link } from 'react-router-dom';
 
@@ -66,9 +67,14 @@ const NavBar = () => {
           <div className="menuContainer">Casos confirmados: {data['Brazil'] ? data['Brazil'][data['Brazil'].length - 1].confirmed : 'N/A' }
           </div>
           <div className="userContainer">
-            <Link className="menuIten" to="/mapa">
+            <Link className="menuIten" style={{marginRight: '-20px'}} to="/">
               <IconButton>
-                <MapIcon className="buttonMap"/>
+                <HomeRoundedIcon className="buttonMap"/>
+              </IconButton>
+            </Link>
+            <Link className="menuIten" style={{marginRight: '20px'}} to="/mapa">
+              <IconButton>
+                <MapRoundedIcon className="buttonMap"/>
               </IconButton>
             </Link>
             <StyledBadge
