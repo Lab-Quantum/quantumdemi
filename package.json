@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.8",
+    "@material-ui/icons": "^4.9.1",
     "@nivo/bullet": "^0.61.1",
     "@nivo/calendar": "^0.61.1",
     "@nivo/geo": "^0.61.1",

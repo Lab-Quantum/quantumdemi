@@ -5,6 +5,10 @@ import Badge from '@material-ui/core/Badge';
 import Logo from '../../assets/logo.png';
 import axios from 'axios';
 import { withStyles } from '@material-ui/core/styles';
+import MapIcon from '@material-ui/icons/Map';
+import IconButton from '@material-ui/core/IconButton';
+
+import { Link } from 'react-router-dom';
 
 const NavBar = () => {
 
@@ -55,11 +59,18 @@ const NavBar = () => {
     <div className="navBar">
       <div className="container">
           <div className="logoContainer">
-            <img className="logo" src={Logo} alt="Logo" />
+            <Link className="menuIten" to="/">
+              <img className="logo" src={Logo} alt="Logo" />
+            </Link>
           </div>
           <div className="menuContainer">Casos confirmados: {data['Brazil'] ? data['Brazil'][data['Brazil'].length - 1].confirmed : 'N/A' }
           </div>
           <div className="userContainer">
+            <Link className="menuIten" to="/mapa">
+              <IconButton>
+                <MapIcon className="buttonMap"/>
+              </IconButton>
+            </Link>
             <StyledBadge
               overlap="circle"
               anchorOrigin={{
