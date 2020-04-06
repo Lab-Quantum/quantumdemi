@@ -4,7 +4,7 @@
 
 > The QuamtumDemi platform was created in order to map the progress of COVID19 in Brazil
 
-> To view the project visit <a href="quantumdemi.netlify.com" target="_blank">quantumdemi.netlify.com</a>
+> To view the project visit <a href="https://quantumdemi.netlify.com" target="_blank"> quantumdemi.netlify.com </a>
 
 **For this project it was used:**
 > - <a href="https://pt-br.reactjs.org" target="_blank"> ReactJS </a>
