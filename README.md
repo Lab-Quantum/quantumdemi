@@ -4,13 +4,14 @@
 
 > The QuamtumDemi platform was created in order to map the progress of COVID19 in Brazil
 
+> To view the project visit <a href="quantumdemi.netlify.com" target="_blank">quantumdemi.netlify.com</a>
 
 **For this project it was used:**
-> - ReactJS <a href="https://pt-br.reactjs.org" target="_blank">(`Link`)</a>
-> - NIVO Charts <a href="https://nivo.rocks" target="_blank">(`Link`)</a>
-> - Material-UI <a href="material-ui.com" target="_blank">(`Link`)</a>
-> - Covid19 API <a href="https://github.com/pomber/covid19" target="_blank">(`Link`)</a>
-> - Netlify <a href="netlify.com" target="_blank">(`Link`)</a>
+> - <a href="https://pt-br.reactjs.org" target="_blank"> ReactJS </a>
+> - <a href="https://nivo.rocks" target="_blank"> NIVO Charts </a>
+> - <a href="material-ui.com" target="_blank"> Material-UI </a>
+> - <a href="https://github.com/pomber/covid19" target="_blank"> Covid19 API </a>
+> - <a href="netlify.com" target="_blank"> Netlify </a>
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
