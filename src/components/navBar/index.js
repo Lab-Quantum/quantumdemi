@@ -9,12 +9,22 @@ import MapRoundedIcon from '@material-ui/icons/MapRounded';
 import IconButton from '@material-ui/core/IconButton';
 import HomeRoundedIcon from '@material-ui/icons/HomeRounded';
 
+import Dialog from '@material-ui/core/Dialog';
+import DialogActions from '@material-ui/core/DialogActions';
+import DialogContent from '@material-ui/core/DialogContent';
+import DialogContentText from '@material-ui/core/DialogContentText';
+import DialogTitle from '@material-ui/core/DialogTitle';
+import Button from '@material-ui/core/Button';
+import TextField from '@material-ui/core/TextField';
+
 import { Link } from 'react-router-dom';
 
 const NavBar = () => {
 
+  const [nome, setNome] = useState('User');
+  const [open, setOpen] = React.useState(false);
   const [data, setData] = useState([]);  
-
+  
   const StyledBadge = withStyles((theme) => ({
     badge: {
       backgroundColor: '#44b700',
@@ -44,6 +54,23 @@ const NavBar = () => {
     },
   }))(Badge);
 
+  const handleClickOpen = () => {
+    setOpen(true);
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+    setNome('User');
+  };
+
+  const handleConfirm = () => {
+    setOpen(false);
+  };
+
+  const handleChnage = (event) => {
+    setNome(event.target.value)
+  };
+
   useEffect(() => {
     axios.get('https://pomber.github.io/covid19/timeseries.json', {
     })
@@ -55,7 +82,6 @@ const NavBar = () => {
     })    
   }, []);
   
-
   return(
     <div className="navBar">
       <div className="container">
@@ -85,10 +111,44 @@ const NavBar = () => {
               }}
               variant="dot"
             >
-              <Avatar style={{width: '32px', height: '32px', fontSize: '14px'}} alt="Cristian" src="/broken-image.jpg" />
+              <Avatar 
+                onClick={handleClickOpen} 
+                style={{width: '32px', height: '32px', fontSize: '14px', cursor: 'pointer'}} 
+                alt={nome} 
+                src="/broken-image.jpg" />
             </StyledBadge>
           </div>
       </div>
+
+      <Dialog 
+        open={open} 
+        onClose={handleClose} 
+        aria-labelledby="form-dialog-title"
+      >
+        <DialogTitle style={{minWidth: '700px'}} id="form-dialog-title">Digite seu nome</DialogTitle>
+        <DialogContent>
+          <DialogContentText>
+            
+          </DialogContentText>
+          <TextField
+            autoFocus
+            margin="dense"
+            id="name"
+            label="Nome"
+            type="text"
+            fullWidth
+            onChange={handleChnage}
+          />
+        </DialogContent>
+        <DialogActions>
+          <Button onClick={handleClose} color="primary">
+            Cancelar
+          </Button>
+          <Button onClick={handleConfirm} color="primary">
+            Confirmar
+          </Button>
+        </DialogActions>
+      </Dialog>
     </div>
   )
 }
