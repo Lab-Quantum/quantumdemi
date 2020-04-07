@@ -17,13 +17,17 @@ import DialogTitle from '@material-ui/core/DialogTitle';
 import Button from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
 
+import Cookies from 'universal-cookie';
+
 import { Link } from 'react-router-dom';
 
 const NavBar = () => {
 
-  const [nome, setNome] = useState('User');
   const [open, setOpen] = React.useState(false);
   const [data, setData] = useState([]);  
+
+  const cookies = new Cookies();
+  console.log(cookies.get('nome'));
   
   const StyledBadge = withStyles((theme) => ({
     badge: {
@@ -60,7 +64,6 @@ const NavBar = () => {
 
   const handleClose = () => {
     setOpen(false);
-    setNome('User');
   };
 
   const handleConfirm = () => {
@@ -68,8 +71,10 @@ const NavBar = () => {
   };
 
   const handleChnage = (event) => {
-    setNome(event.target.value)
+    // setNome(event.target.value)
+    cookies.set('nome', event.target.value, { path: '/' });
   };
+
 
   useEffect(() => {
     axios.get('https://pomber.github.io/covid19/timeseries.json', {
@@ -114,7 +119,7 @@ const NavBar = () => {
               <Avatar 
                 onClick={handleClickOpen} 
                 style={{width: '32px', height: '32px', fontSize: '14px', cursor: 'pointer'}} 
-                alt={nome} 
+                alt={cookies.get('nome')} 
                 src="/broken-image.jpg" />
             </StyledBadge>
           </div>
