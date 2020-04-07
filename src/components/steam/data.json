@@ -196,5 +196,11 @@
   "Casos": 11130,
   "deaths": 486,
   "recovered": 127
+},
+{
+  "day": "2020-04-6",
+  "Casos": 12161,
+  "deaths": 564,
+  "recovered": 127
 }
 ]
